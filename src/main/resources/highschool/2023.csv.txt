@@ -1,0 +1,313 @@
+COLEGIUL NAtIONAL „SFANTUL SAVA”;Matematica-informatica;6;156;4;9.77
+"COLEGIUL NAtIONAL „SFANTUL SAVA”;Matematica-informatica - bilingv limba engleza;1;26;2;9.89
+COLEGIUL NAtIONAL „SFANTUL SAVA”;Stiinte ale naturii;1;26;2;9.87
+COLEGIUL NAtIONAL „SFANTUL SAVA”;Filologie;1;26;2;9.66
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Matematica-informatica;3;78;4;9.47
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Matematica-informatica - bilingv germana;0,5;13;;9.47
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Matematica-informatica - bilingv germana;0,5;13;1;9.53
+"COLEGIUL NAtIONAL „I.L. CARAGIALE”;Matematica-informatica - bilingv limba engleza;1;26;2;9.6
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Stiinte ale naturii;1;26;2;9.51
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Filologie;1;26;2;9.36
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Filologie - bilingv limba germana;0,5;13;;9.07
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Filologie - bilingv limba germana;0,5;13;1;9.33
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Filologie - bilingv limba engleza;1;26;1;9.36
+COLEGIUL NAtIONAL „I.L. CARAGIALE”;Stiinte sociale;1;26;2;9.43
+COLEGIUL NAtIONAL DE INFORMATICa  „TUDOR VIANU”;Matematica-informatica;8;208;8;9.68
+COLEGIUL NAtIONAL DE INFORMATICa  „TUDOR VIANU”;Matematica-informatica - bilingv limba germana;1;26;2;9.68
+COLEGIUL NAtIONAL„AUREL VLAICU”;Matematica-informatica;2;52;4;8.69
+COLEGIUL NAtIONAL„AUREL VLAICU”;Stiinte ale naturii;2;52;4;8.62
+COLEGIUL NAtIONAL„AUREL VLAICU”;Filologie;2;52;4;8.6
+"COLEGIUL GERMAN „GOETHE”;Clase speciale - profil real - Matematica-informatica - matern limba germana;1;25;;9.58
+COLEGIUL GERMAN „GOETHE”;Matematica-informatica - matern limba germana;1;26;2;8.79
+COLEGIUL GERMAN „GOETHE”;Filologie - matern limba germana;1;26;2;8.42
+"COLEGIUL GERMAN „GOETHE”;Clase speciale - profil umanist - Stiinte sociale - matern limba germana;1;25;;9.15
+COLEGIUL NAtIONAL „ION NECULCE”;Matematica-informatica;3;78;4;9.22
+COLEGIUL NAtIONAL „ION NECULCE”;Stiinte ale naturii;1;26;2;9.2
+COLEGIUL NAtIONAL „ION NECULCE”;Stiinte ale naturii - bilingv limba italiana;1;26;1;0
+COLEGIUL NAtIONAL „ION NECULCE”;Filologie;1;26;2;9.1
+COLEGIUL NAtIONAL „ION NECULCE”;Filologie - bilingv limba italiana;1;26;1;9.03
+COLEGIUL NAtIONAL „ION NECULCE”;Stiinte sociale;1;26;2;9.12
+LICEUL TEORETIC„JEAN MONNET”;Matematica-informatica;2;52;3;9.19
+LICEUL TEORETIC„JEAN MONNET”;Stiinte ale naturii;1;26;2;9.19
+LICEUL TEORETIC„JEAN MONNET”;Stiinte sociale;2;52;3;9.08
+LICEUL TEORETIC„C-TIN BRANCOVEANU”;Matematica-informatica;1;26;2;8.58
+LICEUL TEORETIC„C-TIN BRANCOVEANU”;Stiinte ale naturii;2;52;4;8.29
+LICEUL TEORETIC„C-TIN BRANCOVEANU”;Filologie;2;52;4;8.32
+LICEUL TEORETIC„C-TIN BRANCOVEANU”;Stiinte sociale;2;52;4;8.24
+LICEUL TEORETIC „NICOLAE IORGA”;Matematica-informatica;2;52;3;9.38
+LICEUL TEORETIC „NICOLAE IORGA”;Stiinte ale naturii;1;26;2;9.33
+LICEUL TEORETIC „NICOLAE IORGA”;Stiinte ale naturii - bilingv limba engleza;1;26;2;9.34
+LICEUL TEORETIC „NICOLAE IORGA”;Filologie;1;26;2;9.21
+LICEUL TEORETIC „NICOLAE IORGA”;Stiinte sociale;1;26;2;9.26
+LICEUL TEORETIC „ALEXANDRU VLAHUta”;Filologie;2;52;4;8.91
+LICEUL TEORETIC „ALEXANDRU VLAHUta”;Filologie - bilingv limba germana;0,5;13;;8.68
+LICEUL TEORETIC „ALEXANDRU VLAHUta”;Filologie - bilingv limba germana;0,5;13;1;8.86
+LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”;Matematica-informatica;1;26;2;9.17
+LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”;Matematica-informatica - bilingv limba spaniola;1;26;1;8.6
+LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”;Filologie;1;26;2;9.06
+LICEUL TEORETIC BILINGV „MIGUEL DE CERVANTES”;Filologie - bilingv limba spaniola;1;26;1;7.93
+LICEUL TEORETIC BULGAR „HRISTO BOTEV” ;Matematica-informatica - cu predare a limbii materne bulgara;1;26;2;5.29
+LICEUL TEORETIC BULGAR „HRISTO BOTEV” ;Filologie;1;26;2;8
+LICEUL TEORETIC BULGAR „HRISTO BOTEV” ;Filologie - cu predare a limbii materne bulgara;0,5;13;1;6.94
+LICEUL TEORETIC BULGAR „HRISTO BOTEV” ;Filologie - cu predare a limbii materne neogreaca;0,5;13;1;6.98
+LICEUL TEORETIC BULGAR „HRISTO BOTEV” ;Filologie - cu predare a limbii materne rusa;0,5;13;1;6.62
+LICEUL TEORETIC BULGAR „HRISTO BOTEV” ;Filologie - cu predare a limbii materne rromani;0,5;13;1;5.65
+LICEUL GRECO-CATOLIC „TIMOTEI CIPARIU”;Matematica-informatica;1;26;2;8.23
+COLEGIUL ECONOMIC „V. MADGEARU”;Filiera tehnologica - SERVICII - Economic;9;216;14;8.93
+COLEGIUL ECONOMIC „V. MADGEARU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;1;24;2;9.1
+COLEGIUL TEHNIC „DINICU GOLESCU”;Filologie;1;26;2;7.67
+COLEGIUL TEHNIC „DINICU GOLESCU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;7.25
+COLEGIUL TEHNIC „DINICU GOLESCU”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;6.15
+COLEGIUL TEHNIC „MEDIA” ;Filologie;1;26;2;7.77
+COLEGIUL TEHNIC „MEDIA” ;Filiera tehnologica - TEHNIC - Productie media;8;192;12;5.81
+COLEGIUL TEHNIC „MEDIA” ;Filiera tehnologica - TEHNIC - Tehnici poligrafice;1;24;2;5.6
+COLEGIUL TEHNIC MECANIC „GRIVItA”;Filologie;1;26;2;7.62
+COLEGIUL TEHNIC MECANIC „GRIVItA”;Filiera tehnologica - SERVICII - Turism Si alimentatie;1;24;2;5.95
+COLEGIUL TEHNIC MECANIC „GRIVItA”;Filiera tehnologica - Tehnic - Mecanica;1;24;2;5.6
+LICEUL TEORETIC „GEORGE CaLINESCU”;Matematica-informatica;3;78;4;9.03
+LICEUL TEORETIC „GEORGE CaLINESCU”;Filologie;3;78;5;8.96
+COLEGIUL TEHNIC DE AERONAUTICa „HENRI COANDa”;Matematica-informatica;1;26;2;8.16
+COLEGIUL TEHNIC DE AERONAUTICa „HENRI COANDa”;Filologie;1;26;2;8.11
+COLEGIUL TEHNIC DE AERONAUTICa „HENRI COANDa”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;6.81
+COLEGIUL TEHNIC DE AERONAUTICa „HENRI COANDa”;Filiera tehnologica - TEHNIC - Electromecanica;3;72;6;6.42
+COLEGIUL TEHNIC FEROVIAR „MIHAI I” ;Matematica-informatica;1;26;2;7.41
+COLEGIUL TEHNIC FEROVIAR „MIHAI I” ;Stiinte ale naturii;2;52;4;7.08
+COLEGIUL TEHNIC FEROVIAR „MIHAI I” ;Filiera tehnologica - TEHNIC - Electric;1;24;2;5.29
+COLEGIUL TEHNIC „MIRCEA CEL BaTRAN”;Filiera tehnologica - SERVICII - Economic;4;96;8;6.26
+COLEGIUL TEHNIC „MIRCEA CEL BaTRAN”;Filiera tehnologica - TEHNIC - Mecanica;3;72;6;0
+COLEGIUL TEHNIC DE ARHITECTURa SI LUCRARI PUBLICE „IOAN. N. SOCOLESCU”;Matematica-informatica;1;26;2;8.13
+COLEGIUL TEHNIC DE ARHITECTURa SI LUCRARI PUBLICE „IOAN. N. SOCOLESCU”;Filiera tehnologica - TEHNIC - Constructii, instalatii Si lucrari publice;2;48;4;7.05
+COLEGIUL TEHNOLOGIC  „VIACESLAV HARNAJ”;Filiera tehnologica - SERVICII - Economic;2;48;4;6.92
+COLEGIUL TEHNOLOGIC  „VIACESLAV HARNAJ”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;6.11
+"COLEGIUL TEHNOLOGIC  „VIACESLAV HARNAJ”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Agricultura;4;96;8;5.25
+LICEUL „DIMITRIE PACIUREA”;Filologie;1;26;2;8.08
+COLEGIUL NAtIONAL „MIHAI VITEAZUL”;Matematica-informatica;8;208;8;9.49
+COLEGIUL NAtIONAL „MIHAI VITEAZUL”;Stiinte ale naturii;2;52;2;9.63
+COLEGIUL NAtIONAL „CANTEMIR VODa”;Matematica-informatica;4;104;6;9.38
+COLEGIUL NAtIONAL „CANTEMIR VODa”;Matematica-informatica - bilingv limba engleza;1;26;2;9.48
+COLEGIUL NAtIONAL „CANTEMIR VODa”;Stiinte ale naturii;2;52;4;9.35
+COLEGIUL NAtIONAL  „IULIA HASDEU”;Matematica-informatica;3;78;4;9.42
+COLEGIUL NAtIONAL  „IULIA HASDEU”;Matematica-informatica - bilingv limba engleza;1;26;2;9.54
+COLEGIUL NAtIONAL  „IULIA HASDEU”;Stiinte ale naturii;1;26;2;9.47
+COLEGIUL NAtIONAL  „IULIA HASDEU”;Filologie;2;52;4;9.28
+COLEGIUL NAtIONAL  „IULIA HASDEU”;Filologie - bilingv limba spaniola;1;26;2;7.74
+COLEGIUL NAtIONAL  „IULIA HASDEU”;Filologie - bilingv limba engleza;1;26;2;9.35
+COLEGIUL NAtIONAL „SPIRU HARET”;Matematica-informatica;2;52;3;9.73
+"COLEGIUL NAtIONAL „SPIRU HARET”;Matematica-informatica - bilingv limba engleza;1;26;2;9.79
+COLEGIUL NAtIONAL „SPIRU HARET”;Stiinte ale naturii;2;52;3;9.68
+COLEGIUL NAtIONAL „SPIRU HARET”;Filologie;1;26;2;9.51
+COLEGIUL NAtIONAL „SPIRU HARET”;Stiinte sociale;2;52;3;9.57
+COLEGIUL NAtIONAL BILINGV „GEORGE COSBUC”;Matematica-informatica - bilingv limba engleza;2;52;3;9.69
+COLEGIUL NAtIONAL BILINGV „GEORGE COSBUC”;Stiinte ale naturii - bilingv limba engleza;1;26;2;9.68
+COLEGIUL NAtIONAL BILINGV „GEORGE COSBUC”;Filologie - bilingv limba engleza;2;52;3;9.48
+COLEGIUL NAtIONAL BILINGV „GEORGE COSBUC”;Stiinte sociale - bilingv limba engleza;1;26;2;9.62
+COLEGIUL NAtIONAL „SCOALA CENTRALa”;Matematica-informatica;2;52;2;9.26
+COLEGIUL NAtIONAL „SCOALA CENTRALa”;Matematica-informatica - bilingv limba franceza;1;26;2;8.71
+COLEGIUL NAtIONAL „SCOALA CENTRALa”;Matematica-informatica - bilingv limba franceza;1;26;2;9.15
+COLEGIUL NAtIONAL „SCOALA CENTRALa”;Filologie;3;78;3;9.11
+COLEGIUL NAtIONAL „SCOALA CENTRALa”;Filologie - bilingv limba franceza;1;26;2;8.46
+COLEGIUL NAtIONAL „EMIL RACOVIta”;Matematica-informatica;1;26;2;8.99
+COLEGIUL NAtIONAL „EMIL RACOVIta”;Filologie;1;26;2;8.89
+COLEGIUL NAtIONAL „VICTOR BABES”;Matematica-informatica;1;26;2;8.92
+COLEGIUL NAtIONAL „VICTOR BABES”;Stiinte ale naturii;4;104;6;8.59
+COLEGIUL NAtIONAL „VICTOR BABES”;Filologie;1;26;2;8.74
+COLEGIUL NAtIONAL „VICTOR BABES”;Stiinte sociale;1;26;2;8.71
+"LICEUL TEORETIC „ADY ENDRE”;Stiinte ale naturii - matern limba maghiara;1;26;1;0
+LICEUL TEORETIC „LUCIAN BLAGA”;Matematica-informatica;1;26;2;8.25
+LICEUL TEORETIC „LUCIAN BLAGA”;Stiinte ale naturii;2;52;4;8.09
+LICEUL TEORETIC „LUCIAN BLAGA”;Filologie;2;52;4;8.33
+LICEUL TEORETIC „LUCIAN BLAGA”;Stiinte sociale;1;26;2;8.13
+LICEUL TEORETIC „MIHAIL SADOVEANU”;Matematica-informatica;3;78;5;8.38
+LICEUL TEORETIC „MIHAIL SADOVEANU”;Filologie;2;52;4;8.6
+LICEUL TEORETIC „MIHAIL SADOVEANU”;Stiinte sociale;2;52;4;8.52
+LICEUL TEORETIC „C.A. ROSETTI”;Matematica-informatica;3;78;5;9.07
+LICEUL TEORETIC „C.A. ROSETTI”;Stiinte ale naturii;3;78;5;9.04
+LICEUL TEORETIC „C.A. ROSETTI”;Filologie;1;26;2;9.04
+LICEUL TEORETIC BILINGV „ITA WEGMAN”;Stiinte ale naturii;1;26;2;8.3
+LICEUL TEORETIC BILINGV „ITA WEGMAN”;Stiinte sociale - bilingv limba germana;1;26;2;8.29
+LICEUL TEORETIC „TRAIAN”;Matematica-informatica;1;26;2;7.97
+LICEUL TEORETIC „TRAIAN”;Stiinte ale naturii;2;52;4;7.9
+LICEUL TEORETIC „TRAIAN”;Filologie;2;52;4;8.11
+LICEUL TEORETIC „TRAIAN”;Stiinte sociale;2;52;4;8.02
+COLEGIUL TEHNIC „EDMOND NICOLAU”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;5.12
+COLEGIUL TEHNIC „EDMOND NICOLAU”;Filiera tehnologica - TEHNIC - Electronica automatizari;2;48;4;4.13
+COLEGIUL TEHNIC „DIMITRIE LEONIDA”;Stiinte ale naturii;1;26;2;7.53
+COLEGIUL TEHNIC „DIMITRIE LEONIDA”;Filiera tehnologica - TEHNIC - Electronica automatizari;2;48;4;6.24
+COLEGIUL TEHNIC „DIMITRIE LEONIDA”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;4.22
+"COLEGIUL TEHNIC „DIMITRIE LEONIDA”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;1;24;2;6.59
+LICEUL TEHNOLOGIC „SFANTUL PANTELIMON”;Stiinte ale naturii;2;52;4;7.29
+LICEUL TEHNOLOGIC „SFANTUL PANTELIMON”;Stiinte sociale;1;26;2;7.7
+LICEUL TEHNOLOGIC „SFANTUL PANTELIMON”;Filiera tehnologica - TEHNIC - Mecanica;1;24;2;5.59
+LICEUL TEHNOLOGIC „CONSTANTIN BRANCUSI”;Filiera tehnologica - SERVICII - Turism Si alimentatie;3;72;6;7.05
+LICEUL TEHNOLOGIC „CONSTANTIN BRANCUSI”;Filiera tehnologica - TEHNIC - Fabricarea produselor din lemn;2;48;4;5.45
+"LICEUL TEHNOLOGIC „CONSTANTIN BRANCUSI”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;1;24;2;6.45
+"LICEUL TEHNOLOGIC „ION I.C. BRaTIANU”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Industrie alimentara;1;24;2;6.53
+LICEUL TEHNOLOGIC „ION I.C. BRaTIANU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;3;72;6;6.22
+LICEUL TEHNOLOGIC „ION I.C. BRaTIANU”;Filiera tehnologica - TEHNIC - Electric;1;24;2;0
+LICEUL TEHNOLOGIC „ION I.C. BRaTIANU”;Filiera tehnologica - TEHNIC - Mecanica;1;24;2;3.46
+LICEUL TEHNOLOGIC „NIKOLA TESLA”;Filiera tehnologica - SERVICII - Economic;2;48;4;7.73
+LICEUL TEHNOLOGIC „NIKOLA TESLA”;Filiera tehnologica - TEHNIC - Electric;2;48;4;6.31
+COLEGIUL ECONOMIC „A.D. XENOPOL”;Filiera tehnologica - SERVICII - Economic;6;144;12;8.5
+COLEGIUL ECONOMIC „A.D. XENOPOL”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;8.45
+COLEGIUL ECONOMIC „HERMES”;Filiera tehnologica - SERVICII - Economic;6;144;12;7.84
+COLEGIUL ECONOMIC „HERMES”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;7.71
+COLEGIUL ECONOMIC „HERMES”;Filiera tehnologica - SERVICII - Comert;2;48;4;7.63
+COLEGIUL NAtIONAL „MATEI BASARAB” ;Matematica-informatica;4;104;5;9.44
+COLEGIUL NAtIONAL „MATEI BASARAB” ;Stiinte ale naturii;2;52;4;9.43
+COLEGIUL NAtIONAL „MATEI BASARAB” ;Filologie;1;26;2;9.32
+COLEGIUL NAtIONAL „MATEI BASARAB” ;Stiinte sociale;1;26;2;9.36
+LICEUL TEORETIC „ALEXANDRU IOAN CUZA”;Matematica-informatica;5;130;5;9.29
+LICEUL TEORETIC „ALEXANDRU IOAN CUZA”;Stiinte ale naturii;1;26;2;9.28
+LICEUL TEORETIC „ALEXANDRU IOAN CUZA”;Stiinte sociale;2;52;4;9.2
+LICEUL TEORETIC „DANTE ALIGHIERI”;Matematica-informatica;2;52;4;9.02
+"LICEUL TEORETIC „DANTE ALIGHIERI”;Matematica-informatica - bilingv limba italiana;1;26;2;7.64
+LICEUL TEORETIC „DANTE ALIGHIERI”;Stiinte ale naturii;1;26;2;9.04
+"LICEUL TEORETIC „DANTE ALIGHIERI”;Stiinte ale naturii - matern limba italiana;1;26;2;0
+LICEUL TEORETIC „DANTE ALIGHIERI”;Filologie;1;26;2;8.99
+LICEUL TEORETIC „DANTE ALIGHIERI”;Filologie - bilingv limba italiana;1;26;2;7.9
+LICEUL TEORETIC „BENJAMIN FRANKLIN”;Matematica-informatica;2;52;4;8.35
+LICEUL TEORETIC „BENJAMIN FRANKLIN”;Stiinte ale naturii;2;52;4;8.44
+LICEUL TEORETIC „BENJAMIN FRANKLIN”;Filologie;3;78;6;8.49
+LICEUL TEORETIC „NICHITA STaNESCU”;Matematica-informatica;2;52;4;7.98
+LICEUL TEORETIC „NICHITA STaNESCU”;Stiinte sociale;4;104;8;8.05
+LICEUL TEORETIC „DECEBAL”;Matematica-informatica;1;26;2;8.14
+LICEUL TEORETIC „DECEBAL”;Filologie;3;78;6;8.31
+LICEUL TEORETIC „DECEBAL”;Stiinte sociale;3;78;6;8.06
+SCOALA SUPERIOARa COMERCIALa „NICOLAE KRETZULESCU”;Filiera tehnologica - SERVICII - Comert;1;24;2;8.79
+SCOALA SUPERIOARa COMERCIALa „NICOLAE KRETZULESCU”;Filiera tehnologica - SERVICII - Economic;6;144;10;8.75
+SCOALA SUPERIOARa COMERCIALa „NICOLAE KRETZULESCU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;1;24;2;8.82
+COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Stiinte ale naturii;1;26;2;7.55
+COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Stiinte sociale;1;26;2;0
+COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Filiera tehnologica - TEHNIC - Chimie industriala;1;24;2;6.75
+"COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Chimie industriala;1;24;2;0
+"COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Industrie alimentara;1;24;2;5.96
+"COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;2;48;4;6.14
+COLEGIUL TEHNIC „COSTIN D. NENItESCU”;Filiera tehnologica - TEHNIC - Electromecanica;1;24;2;0
+COLEGIUL TEHNIC „ANGHEL SALIGNY”;Filiera tehnologica - TEHNIC - Constructii, instalatii Si lucrari publice;3;72;6;6
+COLEGIUL TEHNIC „ANGHEL SALIGNY”;Filiera tehnologica - SERVICII - Economic;3;72;6;7.35
+"COLEGIUL TEHNIC „ANGHEL SALIGNY”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;1;24;2;6.75
+COLEGIUL TEHNIC „MIHAI BRAVU”;Stiinte ale naturii;1;26;2;7.59
+COLEGIUL TEHNIC „MIHAI BRAVU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;3;72;6;7.1
+COLEGIUL TEHNIC „MIHAI BRAVU”;Filiera tehnologica - TEHNIC - Constructii, instalatii Si lucrari publice;2;48;4;5.25
+COLEGIUL TEHNIC „MIHAI BRAVU”;Filiera tehnologica - TEHNIC - Electric;1;24;2;0
+COLEGIUL TEHNIC „MIHAI BRAVU”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;4.67
+LICEUL TEHNOLOGIC „ELIE RADU”;Filiera tehnologica - SERVICII - Economic;4;96;8;6.01
+LICEUL TEHNOLOGIC „ELIE RADU”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;5.13
+LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”;Filiera tehnologica - SERVICII - Comert;1;24;2;6
+LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”;Filiera tehnologica - SERVICII - Economic;2;48;4;6.78
+LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”;Filiera tehnologica - SERVICII - Estetica Si igiena corpului omenesc;2;48;4;6.14
+LICEUL TEHNOLOGIC „DRAGOMIR HURMUZESCU”;Filiera tehnologica - TEHNIC - Electromecanica;1;24;2;4.46
+LICEUL TEHNOLOGIC „THEODOR PALLADY”;Filologie;1;26;2;7.47
+LICEUL TEHNOLOGIC „THEODOR PALLADY”;Filiera tehnologica - TEHNIC - Mecanica;3;72;6;0
+LICEUL TEHNOLOGIC „THEODOR PALLADY”;Filiera tehnologica - TEHNIC - Electronica automatizari;1;24;2;0
+LICEUL TEHNOLOGIC „THEODOR PALLADY”;Filiera tehnologica - TEHNIC - Electric;1;24;2;0
+COLEGIUL NAtIONAL „MIHAI EMINESCU”;Matematica-informatica;4;104;4;9.23
+COLEGIUL NAtIONAL „MIHAI EMINESCU”;Stiinte ale naturii;1;26;2;9.27
+COLEGIUL NAtIONAL „MIHAI EMINESCU”;Filologie;2;52;4;9.14
+COLEGIUL NAtIONAL „MIHAI EMINESCU”;Stiinte sociale;1;26;2;9.19
+COLEGIUL NAtIONAL „GHEORGHE SINCAI”;Matematica-informatica;5;130;6;9.48
+COLEGIUL NAtIONAL „GHEORGHE SINCAI”;Stiinte ale naturii;2;52;4;9.47
+COLEGIUL NAtIONAL „GHEORGHE SINCAI”;Filologie;1;26;2;9.32
+COLEGIUL NAtIONAL „ION CREANGA”;Matematica-informatica;2;52;3;9.43
+"COLEGIUL NAtIONAL „ION CREANGA”;Matematica-informatica - bilingv limba engleza;1;26;2;9.57
+COLEGIUL NAtIONAL „ION CREANGA”;Stiinte ale naturii;2;52;3;9.4
+COLEGIUL NAtIONAL „ION CREANGA”;Filologie;2;52;4;9.27
+COLEGIUL NAtIONAL „ION CREANGA”;Stiinte sociale;1;26;2;9.32
+COLEGIUL NAtIONAL „OCTAV ONICESCU” ;Matematica-informatica;4;104;6;8.63
+COLEGIUL NAtIONAL „OCTAV ONICESCU” ;Filologie;2;52;4;8.62
+COLEGIUL NAtIONAL „OCTAV ONICESCU” ;Stiinte sociale;1;26;2;8.69
+COLEGIUL ROMANO - CATOLIC „SF. IOSIF”;Stiinte ale naturii;1;26;2;8.62
+LICEUL TEOLOGIC ADVENTIST ”STEFAN DEMETRESCU”;Matematica-informatica;1;26;2;8.81
+LICEUL TEOLOGIC ADVENTIST ”STEFAN DEMETRESCU”;Filologie;1;26;2;8.26
+LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”;Matematica-informatica;2;52;4;7.33
+LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”;Stiinte ale naturii;2;52;4;7.36
+LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”;Filologie;1;26;2;0
+LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”;Filiera tehnologica - TEHNIC - Electric;1;24;2;5.36
+LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”;Filiera tehnologica - TEHNIC - Electronica automatizari;1;24;2;5.22
+"LICEUL TEHNOLOGIC DE METROLOGIE „TRAIAN VUIA”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;2;48;4;5.88
+LICEUL TEHNOLOGIC „DACIA”;Matematica-informatica;1;26;2;0
+LICEUL TEHNOLOGIC „DACIA”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;0
+LICEUL TEHNOLOGIC „MIRCEA VULCaNESCU”;Filiera tehnologica - SERVICII - Economic;7;168;14;6.67
+LICEUL TEHNOLOGIC „MIRCEA VULCaNESCU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;6.63
+COLEGIUL NAtIONAL „GHEORGHE LAZaR”;Matematica-informatica;3;78;4;9.84
+COLEGIUL NAtIONAL „GHEORGHE LAZaR”;Stiinte ale naturii;3;78;4;9.8
+COLEGIUL NAtIONAL „GHEORGHE LAZaR”;Filologie;1;26;2;9.63
+COLEGIUL NAtIONAL „GHEORGHE LAZaR”;Stiinte sociale;2;52;4;9.69
+LICEUL TEORETIC „ION BARBU”;Matematica-informatica;2;52;3;9.15
+LICEUL TEORETIC „ION BARBU”;Stiinte ale naturii;2;52;4;9.06
+LICEUL TEORETIC „ION BARBU”;Stiinte sociale;2;52;4;9.01
+LICEUL TEORETIC „DIMITRIE BOLINTINEANU”;Matematica-informatica;2;52;4;8.2
+LICEUL TEORETIC „DIMITRIE BOLINTINEANU”;Stiinte ale naturii;2;52;4;8.24
+LICEUL TEORETIC „DIMITRIE BOLINTINEANU”;Filologie;2;52;4;8.36
+LICEUL TEORETIC „DIMITRIE BOLINTINEANU”;Stiinte sociale;1;26;2;8.47
+LICEUL TEORETIC „STEFAN ODOBLEJA”;Matematica-informatica;3;78;4;8.7
+LICEUL TEORETIC „STEFAN ODOBLEJA”;Stiinte ale naturii;1;26;2;8.79
+LICEUL TEORETIC „STEFAN ODOBLEJA”;Filologie;1;26;2;8.79
+LICEUL TEORETIC „STEFAN ODOBLEJA”;Stiinte sociale;1;26;2;8.76
+COLEGIUL TEHNIC ENERGETIC ;Matematica-informatica;1;26;2;0
+COLEGIUL TEHNIC ENERGETIC ;Filologie;2;52;4;7.24
+"COLEGIUL TEHNIC ENERGETIC ;Filiera tehnologica - SERVICII -Turism Si alimentatie;2;48;4;6.09
+COLEGIUL TEHNIC ENERGETIC ;Filiera tehnologica - TEHNIC - Electric;2;48;4;4.84
+COLEGIUL TEHNIC ENERGETIC ;Filiera tehnologica - TEHNIC - Electromecanica;1;24;2;4.04
+COLEGIUL TEHNIC ENERGETIC ;Filiera tehnologica - TEHNIC - Mecanica;1;24;2;5.07
+"COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARa „DUMITRU MOtOC”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Industrie alimentara;5;120;10;5.54
+LICEUL TEHNOLOGIC „DIMITRIE GUSTI”;Stiinte ale naturii;1;26;2;7.45
+LICEUL TEHNOLOGIC „DIMITRIE GUSTI”;Stiinte sociale;2;52;4;7.5
+LICEUL TEHNOLOGIC „DIMITRIE GUSTI”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;5.32
+COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”;Stiinte ale naturii;1;26;2;7.52
+COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”;Stiinte sociale;1;26;2;7.9
+COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”;Filiera tehnologica - TEHNIC - Mecanica;1;24;2;6
+COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”;Filiera tehnologica - SERVICII - Economic;2;48;4;6.59
+COLEGIUL TEHNOLOGIC „GRIGORE CERCHEZ”;Filiera tehnologica - SERVICII - Turism Si alimentatie;4;96;8;6.1
+COLEGIUL ECONOMIC „VIILOR”;Filiera tehnologica - SERVICII - Turism Si alimentatie;9;216;18;6.5
+COLEGIUL ECONOMIC „VIILOR”;Filiera tehnologica - SERVICII - Economic;5;120;10;6.9
+COLEGIUL ECONOMIC „VIILOR”;Filiera tehnologica - SERVICII - Comert;2;48;4;6.21
+COLEGIUL NAtIONAL „ELENA CUZA”;Matematica-informatica;2;52;2;9.34
+COLEGIUL NAtIONAL „ELENA CUZA”;Filologie - bilingv limba engleza;1;26;2;9.21
+COLEGIUL NAtIONAL „ELENA CUZA”;Filologie;1;26;2;9.16
+COLEGIUL NAtIONAL „GRIGORE MOISIL”;Matematica-informatica;3;78;4;9.65
+COLEGIUL NAtIONAL „GRIGORE MOISIL”;Stiinte ale naturii;1;26;2;9.63
+COLEGIUL NAtIONAL „GRIGORE MOISIL”;Filologie;1;26;2;9.36
+COLEGIUL NAtIONAL „GRIGORE MOISIL”;Stiinte sociale;1;26;2;9.47
+LICEUL TEORETIC „MARIN PREDA”;Matematica-informatica;1;26;2;8.47
+LICEUL TEORETIC „MARIN PREDA”;Filologie;2;52;4;8.52
+LICEUL TEORETIC „MARIN PREDA”;Stiinte sociale;2;52;4;8.43
+LICEUL TEORETIC „TUDOR VLADIMIRESCU”;Matematica-informatica;2;52;3;9
+LICEUL TEORETIC „TUDOR VLADIMIRESCU”;Stiinte ale naturii;2;52;4;8.92
+LICEUL TEORETIC „TUDOR VLADIMIRESCU”;Filologie;1;26;2;8.9
+LICEUL TEORETIC „TUDOR VLADIMIRESCU”;Stiinte sociale;2;52;4;8.88
+LICEUL TEORETIC „EUGEN LOVINESCU”;Matematica-informatica;3;78;3;8.67
+LICEUL TEORETIC „EUGEN LOVINESCU”;Filologie;2;52;4;8.7
+LICEUL TEORETIC „EUGEN LOVINESCU”;Filologie - bilingv limba portugheza;1;26;2;8.48
+LICEUL TEHNOLOGIC „SF. ANTIM IVIREANU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;7.31
+COLEGIUL TEHNIC DE POSTa SI TELECOMUNICAtII „GHEORGHE AIRINEI”;Stiinte ale naturii;1;26;2;7.41
+COLEGIUL TEHNIC DE POSTa SI TELECOMUNICAtII „GHEORGHE AIRINEI”;Stiinte sociale;3;78;6;7.57
+COLEGIUL TEHNIC DE POSTa SI TELECOMUNICAtII „GHEORGHE AIRINEI”;Filiera tehnologica - TEHNIC - Electronica automatizari;2;48;4;4.84
+COLEGIUL TEHNIC DE POSTa SI TELECOMUNICAtII „GHEORGHE AIRINEI”;Filiera tehnologica - SERVICII - Economic;2;48;4;6.3
+COLEGIUL TEHNIC DE POSTa SI TELECOMUNICAtII „GHEORGHE AIRINEI”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;6.29
+COLEGIUL TEHNIC „PETRU MAIOR”;Matematica-informatica;1;26;2;8.23
+COLEGIUL TEHNIC „PETRU MAIOR”;Filologie;1;26;2;8.29
+COLEGIUL TEHNIC „PETRU MAIOR”;Stiinte sociale;1;26;2;8.29
+"COLEGIUL TEHNIC „PETRU MAIOR”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;1;24;2;7.72
+COLEGIUL TEHNIC „PETRU MAIOR”;Filiera tehnologica - TEHNIC - Electric;1;24;2;6.85
+COLEGIUL TEHNIC „PETRU MAIOR”;Filiera tehnologica - TEHNIC - Mecanica;1;24;2;6.77
+COLEGIUL TEHNIC „PETRU MAIOR”;Filiera tehnologica - TEHNIC - Electric;3;72;6;4.65
+COLEGIUL TEHNIC „PETRU MAIOR”;Filiera tehnologica - SERVICII - Economic;2;48;4;6.23
+COLEGIUL TEHNIC „IULIU MANIU”;Stiinte ale naturii;1;26;2;7.1
+COLEGIUL TEHNIC „IULIU MANIU”;Stiinte sociale;3;78;6;7.39
+COLEGIUL TEHNIC „IULIU MANIU”;Filiera tehnologica - TEHNIC - Electric;2;48;4;0
+COLEGIUL TEHNIC „IULIU MANIU”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;0
+COLEGIUL TEHNIC „IULIU MANIU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;2;48;4;5.92
+LICEUL CU PROGRAM SPORTIV „MIRCEA ELIADE”;Stiinte ale naturii;1;26;2;8.05
+LICEUL CU PROGRAM SPORTIV „MIRCEA ELIADE”;Stiinte sociale;1;26;2;8.17
+COLEGIUL TEHNIC „GHEORGHE ASACHI”;Stiinte ale naturii;1;26;2;0
+COLEGIUL TEHNIC „GHEORGHE ASACHI”;Stiinte sociale;1;26;2;7.99
+COLEGIUL TEHNIC „GHEORGHE ASACHI”;Filiera tehnologica - TEHNIC - Industrie textila Si pielarie;2;48;4;5.98
+COLEGIUL TEHNIC „GHEORGHE ASACHI”;Filiera tehnologica - TEHNIC - Productie media;3;72;6;6.72
+COLEGIUL TEHNIC „CAROL I”;Stiinte ale naturii;1;26;2;7.24
+"COLEGIUL TEHNIC „CAROL I”;Filiera tehnologica - RESURSE NATURALE SI PROTECtIA MEDIULUI - Protectia mediului;2;48;4;6.52
+"COLEGIUL TEHNIC „CAROL I”;Filiera tehnologica - TEHNIC -Electric;1;24;2;0
+COLEGIUL TEHNIC „CAROL I”;Filiera tehnologica - TEHNIC - Electronica automatizari;1;24;2;5.39
+COLEGIUL TEHNIC „CAROL I”;Filiera tehnologica - TEHNIC - Mecanica;2;48;4;082
+COLEGIUL ECONOMIC „COSTIN C. KIRItESCU”;Filiera tehnologica - SERVICII - Economic;5;120;10;8.19
+COLEGIUL ECONOMIC „COSTIN C. KIRItESCU”;Filiera tehnologica - SERVICII - Turism Si alimentatie;3;72;6;8.05
